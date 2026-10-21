@@ -6,12 +6,12 @@
 
 TVBox 配置地址：
 ```
-https://raw.githubusercontent.com/zzq199446-bot/tvbox-ipv4-live/main/tvbox.json
+https://raw.githubusercontent.com/cony8888/tvbox-ipv4-live/main/tvbox.json
 ```
 
 直播列表：
 ```
-https://raw.githubusercontent.com/zzq199446-bot/tvbox-ipv4-live/main/live-ipv4.m3u
+https://raw.githubusercontent.com/cony8888/tvbox-ipv4-live/main/live-ipv4.m3u
 ```
 
 不支持 M3U 的客户端可使用同目录 live-ipv4.txt。镜像配置文件为 tvbox-mirror.json，内置 gh-proxy.com 前缀；此第三方服务可用性无保证。
