@@ -1,0 +1,11 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "IPv4 国内·港澳台·全球合集",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/zzq199446-bot/tvbox-ipv4-live/main/live-ipv4.m3u",
+      "playerType": 1
+    }
+  ]
+}
